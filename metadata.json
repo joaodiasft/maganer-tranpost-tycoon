@@ -1,0 +1,6 @@
+{
+  "name": "E-Shop Tycoon",
+  "description": "Simulador de comércio eletrônico: gerencie estoque, empacote pedidos, faça marketing, contrate funcionários e transforme sua loja em um império global.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
